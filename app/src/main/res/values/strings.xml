@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music_box</string>
+    <string name="song_name">Sun Saathiya</string>
+    <string name="artist">Priya Saraiyya</string>
+    <string name="lefttimer">0:00</string>
+    <string name="righttimer">4:00</string>
+</resources>
